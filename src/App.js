@@ -8,7 +8,7 @@ import Button from "@material-ui/core/Button";
 
 import { withStyles } from "@material-ui/core/styles";
 
-import { data } from "./fakeData";
+import { data } from "./data/fakeData";
 
 import { FilterForm, filter } from "./components/filter";
 
